@@ -1,2 +1,2 @@
 # BackgroundChanger
-background cahnger
+background changer
